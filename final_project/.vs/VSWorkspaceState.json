@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\machinetranslation",
-    "\\machinetranslation\\tests"
+    ""
   ],
-  "SelectedNode": "\\server.py",
+  "SelectedNode": "\\Dockerfile",
   "PreviewInSolutionExplorer": false
 }
